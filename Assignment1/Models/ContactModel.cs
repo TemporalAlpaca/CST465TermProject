@@ -10,13 +10,13 @@ namespace Assignment1.Models
     public class ContactModel
     {
         [Required]
-        public string name { get; set; }
+        public string Name { get; set; }
         [Required]
-        public string phoneNumber { get; set; }
+        public string PhoneNumber { get; set; }
         [Required]
-        public string email { get; set; }
+        public string Email { get; set; }
         [Required]
-        public string message { get; set; }
+        public string Message { get; set; }
 
     }
 }
