@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Assignment1.Controllers
 {
-    public class AboutController : Controller
+    public class ProcrastinationController : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()
